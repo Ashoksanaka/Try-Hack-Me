@@ -1,0 +1,107 @@
+SOLUTIONS FOR "WINDOWS FUNDAMENTALS 2" ROOM :-
+
+
+
+Introduction:-
+
+	Q. Read above and start the virtual machine.
+	Ans: No answer needed
+
+
+System Configuration:-
+
+	Q. What is the name of the service that lists Systems Internals as the manufacturer?
+	Ans: PsShutdown
+
+	Q. Whom is the Windows license registered to?
+	Ans: Windows User
+
+	Q. What is the command for Windows Troubleshooting?
+	Ans: C:\Windows\System32\control.exe /name Microsoft.Troubleshooting
+
+	Q. What command will open the Control Panel? (The answer is  the name of .exe, not the full path)
+	Ans: control.exe
+
+
+Change UAC Settings:-
+
+	Q. What is the command to open User Account Control Settings? (The answer is the name of the .exe file, not the full path)
+	Ans: UserAccountControlSettings.exe
+
+
+Computer Management:-
+
+	Q. What is the command to open Computer Management? (The answer is the name of the .msc file, not the full path)
+	Ans: compmgmt.msc
+
+	Q. At what time every day is the GoogleUpdateTaskMachineUA task configured to run?
+	Ans: 6:15 AM
+
+	Q. What is the name of the hidden folder that is shared?
+	Ans: sh4r3dF0Ld3r
+
+
+System Information:-
+
+	Q. What is the command to open System Information? (The answer is the name of the .exe file, not the full path)
+	Ans: msinfo32.exe
+
+	Q. What is listed under System Name?
+	Ans: THM-WINFUN2
+
+	Q. Under Environment Variables, what is the value for ComSpec?
+	Ans: %SystemRoot%\system32\cmd.exe
+
+
+Resource Monitor:-
+
+	Q. What is the command to open Resource Monitor? (The answer is the name of the .exe file, not the full path)
+	Ans: resmon.exe
+
+
+Command Prompt:-
+
+	Q. In System Configuration, what is the full command for Internet Protocol Configuration?
+	Ans: C:\Windows\System32\cmd.exe /k %windir%\system32\ipconfig.exe
+
+	Q. For the ipconfig command, how do you show detailed information?
+	Ans: ipconfig/all
+
+
+Registry Editor:-
+
+	Q. What is the command to open the Registry Editor? (The answer is the name of  the .exe file, not the full path)
+	Ans: regedt32.exe
+
+
+Conclusion:-
+
+	Q. Read above.
+	Ans: No answer needed
+
+
+
+
+
+************************************************************************************* T H E  E N D *****************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
