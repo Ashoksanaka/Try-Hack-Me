@@ -1,0 +1,122 @@
+SOLUTIONS FOR "LINUX FUNDAMENTALS PART 1" ROOM :-
+
+
+
+Introduction:-
+
+        Let's get started!
+
+
+A Bit of Background on Linux:-
+
+        Q. Research: What year was the first release of a Linux operating system?
+        Ans: 1991
+
+
+Interacting With Your First Linux Machine (In-Browser):-
+
+        Q. I've deployed my first Linux machine!
+        Ans: No answer needed
+
+
+Running Your First few Commands:-
+
+        Q. If we wanted to output the text "TryHackMe", what would our command be?
+        Ans: echo TryHackMe
+
+        Q. What is the username of who you're logged in as on your deployed Linux machine?
+        Ans: tryhackme
+
+
+Interacting With the Filesystem!:-
+
+        Q. On the Linux machine that you deploy, how many folders are there?
+        Ans: 4
+
+        Q. Which directory contains a file? 
+        Ans: folder4
+
+        Q. What is the contents of this file?
+        Ans: Hello World!
+
+        Q. Use the cd command to navigate to this file and find out the new current working directory. What is the path?
+        Ans: /home/tryhackme/folder4
+
+
+Searching for Files:-
+
+        Q. Use grep on "access.log" to find the flag that has a prefix of "THM". What is the flag?
+        Ans: THM{ACCESS}
+
+        Q. And I still haven't found what I'm looking for!
+        Ans: No answer needed
+
+
+An Introduction to Shell Operators:-
+
+        Q. If we wanted to run a command in the background, what operator would we want to use?
+        Ans: &
+
+        Q. If I wanted to replace the contents of a file named "passwords" with the word "password123", what would my command be?
+        Ans: echo password123 > passwords
+
+        Q. Now if I wanted to add "tryhackme" to this file named "passwords" but also keep "passwords123", what would my command be
+        Ans: echo tryhackme >> passwords
+
+        Q. Now use the deployed Linux machine to put these into practice
+        Ans: No answer needed
+
+
+Conclusions & Summaries:-
+
+        Q. I'll have a play around!
+        Ans: No answer needed
+
+
+Linux Fundamentals Part 2:-
+
+        Q. Terminate the machine deployed in this room from task 3. 
+        Ans: No answer needed
+
+        Q. Join Linux Fundamentals Part 2!
+        Ans: No answer needed
+
+
+
+
+
+*************************************************************************************** T H E  E N D *****************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
