@@ -1,0 +1,56 @@
+SOLUTIONS FOR "WHAT IS NETWORKING ?" ROOM :-
+
+
+
+What is Networking?:-
+
+        Q. What is the key term for devices that are connected together?
+        Ans: network
+
+
+What is the Internet?:-
+
+        Q. Who invented the World Wide Web?
+        Ans: tim erners-lee
+
+
+Identifying Devices on a Network:-
+
+        Q. What does the term "IP" stand for?
+        Ans: internet protocol
+
+        Q. What is each section of an IP address called?
+        Ans: octet
+
+        Q. How many sections (in digits) does an IP address have? 
+        Ans: 4
+
+        Q. What does the term "MAC" stand for?
+        Ans: media access control
+
+        Q. Deploy the interactive lab using the "View Site" button and spoof your MAC address to access the site.  What is the flag?
+        Ans: THM{YOU_GOT_ON_TRYHACKME}
+
+
+Ping (ICMP):-
+
+        Q. What protocol does ping use?
+        Ans: icmp
+
+        Q. What is the syntax to ping 10.10.10.10?
+        Ans: ping 10.10.10.10
+
+        Q. What flag do you get when you ping 8.8.8.8?
+        Ans: THM{I_PINGED_THE_SERVER}
+
+
+Continue Your Learning: Intro to LAN:-
+
+        Q. Join the "Intro to LAN" room.
+        Ans: No answer needed
+
+
+
+
+
+***************************************************************************************** T H E  E N D ***********************************************************************************************************
