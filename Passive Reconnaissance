@@ -19,3 +19,6 @@ Whois:-
 nslookup and dig:-
         Q. Check the TXT records of thmlabs.com. What is the flag there?
         Ans: THM{a5b8392988ed36acb0272971e438d78}
+DNSDumpster:-
+        Q. Lookup tryhackme.com on DNSDumpster. What is one interesting subdomain that you would discover in addition to www and blog?
+        Ans: remote
