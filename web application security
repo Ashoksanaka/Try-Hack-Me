@@ -2,3 +2,8 @@ SOLUTIONS FOR "WEB APPLICATION SECURITY" ROOMS :-
 Introduction:-
 	Q. What do you need to access a web application?
 	Ans: browser
+Web Application Security Risks:-
+	Q. You discovered that the login page allows an unlimited number of login attempts without trying to slow down the user or lock the account. What is the category of this security risk?
+	Ans: identification and authentication failure
+	Q. You noticed that the username and password are sent in cleartext without encryption. What is the category of this security risk?
+	Ans: cryptographic failures
