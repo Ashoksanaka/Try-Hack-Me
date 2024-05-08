@@ -1,0 +1,23 @@
+SOLUTIONS FOR "BURP SUITE-THE BASICS" ROOM :-
+Introduction:-
+        Q. Let us start!
+        Ans: No answer needed
+What is Burp Suite:-
+        Q. Which edition of Burp Suite runs on a server and provides constant scanning for target web apps?
+        Ans: burp suite enterprise
+        Q. Burp Suite is frequently used when attacking web applications and ______ applications.
+        Ans: mobile
+Features of Burp Community:-
+        Q. Which Burp Suite feature allows us to intercept requests between ourselves and the target?
+        Ans: proxy
+        Q. Which Burp tool would we use to brute-force a login form?
+        Ans: intruder
+Installation:-
+        Q. If you have chosen not to use the AttackBox, ensure that you have a copy of Burp Suite installed before proceeding.
+        Ans: No answer needed
+The Dashboard:-
+        Q. What menu provides information about the actions performed by Burp Suite, such as starting the proxy, and details about connections made through Burp?
+        Ans: event log
+Navigation:-
+        Q. Which tab Ctrl + Shift + P will switch us to?
+        Ans: proxy tab
