@@ -46,3 +46,9 @@ Scoping and Targeting:-
         Q. Add http://MACHINE_IP/ to your scope and change the proxy settings to only intercept traffic to in-scope targets.
            See the difference between the amount of traffic getting caught by the proxy before and after limiting the scope.
         Ans: No answer needed
+Proxying HTTPS:-
+        Q. If you are not using the AttackBox, configure Firefox (or your browser of choice) to accept the PortSwigger CA certificate for TLS communication through the Burp Proxy.
+        Ans: No answer needed
+Example Attack:-
+        Q. Click me to proceed to the next task.
+        Ans: No answer needed
