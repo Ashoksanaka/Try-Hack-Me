@@ -1,33 +1,62 @@
 SOLUTIONS FOR "BURP SUITE: REPEATER" ROOM :-
+
+
+
 Introduction:-
+
 	Q. Let's get started!
 	Ans: No answer needed
+
+
 What is Repeater?:-
+
 	Q. Which sections gives us a more intuitive control over our requests?
 	Ans: inspector
+
+
 Basic Usage:-
+
 	Q. Which view will populate when sending a request from the Proxy module to Repeater?
 	Ans: request
+
+
 Message Analysis Toolbar:-
+
 	Q. Which option allows us to visualize the page as it would appear in a web browser?
 	Ans: render
+
+
 Inspector:-
+
 	Q. Which section in Inspector is specific to POST requests?
 	Ans: body parameters
+
+
 Practical Example:-
+
 	Q. What is the flag you receive?
 	Ans: HM{Yzg2MWI2ZDhlYzdlNGFiZTUzZTIzMzVi}
+
+
 Challenge:-
+
 	Q. Enable intercept again and capture a request to one of the numeric products endpoints in the Proxy module, then forward it to Repeater.
 	Ans: No answer needed
+
 	   See if you can get the server to error out with a "500 Internal Server Error" code by changing the number at the end of the request to extreme inputs.
 	Q. What is the flag you receive when you cause a 500 error in the endpoint?
 	Ans: THM{N2MzMzFhMTA1MmZiYjA2YWQ4M2ZmMzh}
+
+
 Extra-mile Challenge:-
+
 	Q. Exploit the union SQL injection vulnerability in the site.
 	   What is the flag?
 	Ans: THM{ZGE3OTUyZGMyMzkwNjJmZjg3Mzk1NjJh}
+
+
 Conclusion:-
+
 	Q. I can use Burp Suite Repeater!
 	Ans: No answer needed
 
