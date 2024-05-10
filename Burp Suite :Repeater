@@ -23,3 +23,7 @@ Challenge:-
 	   See if you can get the server to error out with a "500 Internal Server Error" code by changing the number at the end of the request to extreme inputs.
 	Q. What is the flag you receive when you cause a 500 error in the endpoint?
 	Ans: THM{N2MzMzFhMTA1MmZiYjA2YWQ4M2ZmMzh}
+Extra-mile Challenge:-
+	Q. Exploit the union SQL injection vulnerability in the site.
+	   What is the flag?
+	Ans: THM{ZGE3OTUyZGMyMzkwNjJmZjg3Mzk1NjJh}
