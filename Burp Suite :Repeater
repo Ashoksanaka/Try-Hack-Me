@@ -1,0 +1,16 @@
+SOLUTIONS FOR "BURP SUITE: REPEATER" ROOM :-
+Introduction:-
+	Q. Let's get started!
+	Ans: No answer needed
+What is Repeater?:-
+	Q. Which sections gives us a more intuitive control over our requests?
+	Ans: inspector
+Basic Usage:-
+	Q. Which view will populate when sending a request from the Proxy module to Repeater?
+	Ans: request
+Message Analysis Toolbar:-
+	Q. Which option allows us to visualize the page as it would appear in a web browser?
+	Ans: render
+Inspector:-
+	Q. Which section in Inspector is specific to POST requests?
+	Ans: body parameters
