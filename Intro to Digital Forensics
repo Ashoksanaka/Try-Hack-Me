@@ -5,3 +5,10 @@ Introduction To Digital Forensics:-
 Digital Forensics Process:-
         Q. It is essential to keep track of who is handling it at any point in time to ensure that evidence is admissible in the court of law. What is the name of the documentation that would help establish that?
         Ans: chain of custody
+Practical Example of Digital Forensics:-
+        Q. Using pdfinfo, find out the author of the attached PDF file, ransom-letter.pdf.
+        Ans: Ann Gree Shepherd
+        Q. Using exiftool or any similar tool, try to find where the kidnappers took the image they attached to their document. What is the name of the street?
+        Ans: milk street
+        Q. What is the model name of the camera used to take this photo?
+        Ans: Canon EOS R6
