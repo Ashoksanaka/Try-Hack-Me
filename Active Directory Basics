@@ -1,1 +1,9 @@
 SOLUTIONS FOR "ACTIVE DIRECTORY BASICS" ROOM :-
+introduction:-
+        Q. Click and continue learning!
+        Ans: No answer needed
+Windows Domains:-
+        Q. In a Windows domain, credentials are stored in a centralised repository called...
+        Ans: Active Directory
+        Q. The server in charge of running the Active Directory services is called...
+        Ans: Domain Controller
