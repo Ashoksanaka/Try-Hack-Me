@@ -14,3 +14,8 @@ Active Directory:-
         Ans: TOM-PC$
         Q. Suppose our company creates a new department for Quality Assurance. What type of containers should we use to group all Quality Assurance users so that policies can be applied consistently to them?
         Ans: Organizational Units
+Managing Users in AD:-
+        Q. What was the flag found on Sophie's desktop?
+        Ans: THM{thanks_for_contacting_support}
+        Q. The process of granting privileges to a user over some OU or other AD Object is called...
+        Ans: delegation
