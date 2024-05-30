@@ -24,3 +24,8 @@ Managing computers in AD:-
         Ans: 7
         Q. Is it recommendable to create separate OUs for Servers and Workstations? (yay/nay)
         Ans: yay
+Group Policies:-
+        Q. What is the name of the network share used to distribute GPOs to domain machines?
+        Ans: sysvol
+        Q. Can a GPO be used to apply settings to users and computers? (yay/nay)
+        Ans: yay
