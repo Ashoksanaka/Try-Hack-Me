@@ -36,3 +36,8 @@ Authentication methods:-
         Ans: Ticket Granting Ticket
         Q. When using NetNTLM, is a user's password transmitted over the network at any point? (yay/nay)
         Ans: nay
+Trees,Forests and Trusts:-
+        Q. What is a group of Windows domains that share the same namespace called?
+        Ans: Tree
+        Q. What should be configured between two domains for a user in Domain A to access a resource in Domain B?
+        Ans: A Trust Relationship
