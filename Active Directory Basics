@@ -1,46 +1,90 @@
 SOLUTIONS FOR "ACTIVE DIRECTORY BASICS" ROOM :-
+
+
+
 introduction:-
+
         Q. Click and continue learning!
         Ans: No answer needed
+
+
 Windows Domains:-
+
         Q. In a Windows domain, credentials are stored in a centralised repository called...
         Ans: Active Directory
+
         Q. The server in charge of running the Active Directory services is called...
         Ans: Domain Controller
+
+
 Active Directory:-
+
         Q. Which group normally administrates all computers and resources in a domain?
         Ans: Domain Admins
+
         Q. What would be the name of the machine account associated with a machine named TOM-PC?
         Ans: TOM-PC$
+
         Q. Suppose our company creates a new department for Quality Assurance. What type of containers should we use to group all Quality Assurance users so that policies can be applied consistently to them?
         Ans: Organizational Units
+
+
 Managing Users in AD:-
+
         Q. What was the flag found on Sophie's desktop?
         Ans: THM{thanks_for_contacting_support}
+
         Q. The process of granting privileges to a user over some OU or other AD Object is called...
         Ans: delegation
+
+
 Managing computers in AD:-
+
         Q. After organising the available computers, how many ended up in the Workstations OU?
         Ans: 7
+
         Q. Is it recommendable to create separate OUs for Servers and Workstations? (yay/nay)
         Ans: yay
+
+
 Group Policies:-
+
         Q. What is the name of the network share used to distribute GPOs to domain machines?
         Ans: sysvol
+
         Q. Can a GPO be used to apply settings to users and computers? (yay/nay)
         Ans: yay
+
+
 Authentication methods:-
+
         Q. Will a current version of Windows use NetNTLM as the preferred authentication protocol by default? (yay/nay)
         Ans: nay
+
         Q. When referring to Kerberos, what type of ticket allows us to request further tickets known as TGS?
         Ans: Ticket Granting Ticket
+
         Q. When using NetNTLM, is a user's password transmitted over the network at any point? (yay/nay)
         Ans: nay
+
+
 Trees,Forests and Trusts:-
+
         Q. What is a group of Windows domains that share the same namespace called?
         Ans: Tree
+
         Q. What should be configured between two domains for a user in Domain A to access a resource in Domain B?
         Ans: A Trust Relationship
+
+
 Conclusion:-
+
         Q. Click and continue learning!
         Ans: No answer needed
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------- T H E  E N D ------------------------------------------------------------------------------------------------------------------
