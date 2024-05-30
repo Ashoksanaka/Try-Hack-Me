@@ -29,3 +29,10 @@ Group Policies:-
         Ans: sysvol
         Q. Can a GPO be used to apply settings to users and computers? (yay/nay)
         Ans: yay
+Authentication methods:-
+        Q. Will a current version of Windows use NetNTLM as the preferred authentication protocol by default? (yay/nay)
+        Ans: nay
+        Q. When referring to Kerberos, what type of ticket allows us to request further tickets known as TGS?
+        Ans: Ticket Granting Ticket
+        Q. When using NetNTLM, is a user's password transmitted over the network at any point? (yay/nay)
+        Ans: nay
