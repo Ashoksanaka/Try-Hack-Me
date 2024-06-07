@@ -2,3 +2,12 @@
 What is DNS?:-
         Q. What does DNS stand for?
         Ans: Domain Name System
+Domain Hierarchy:-
+        Q. What is the maximum length of a subdomain?
+        Ans: 63
+        Q. Which of the following characters cannot be used in a subdomain ( 3 b _ - )?
+        Ans: _
+        Q. What is the maximum length of a domain name?
+        Ans: 253
+        Q. What type of TLD is .co.uk?
+        Ans: ccTLD
