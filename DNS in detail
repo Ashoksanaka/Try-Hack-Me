@@ -16,3 +16,10 @@ Record Types:-
         Ans: MX
         Q. What type of record handles IPv6 addresses?
         Ans: AAAA
+Making A Request:-
+        Q. What field specifies how long a DNS record should be cached for?
+        Ans: TTL
+        Q. What type of DNS Server is usually provided by your ISP?
+        Ans: recursive
+        Q. What type of server holds all the records for a domain?
+        Ans: authoritative
