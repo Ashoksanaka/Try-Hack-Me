@@ -11,3 +11,8 @@ Domain Hierarchy:-
         Ans: 253
         Q. What type of TLD is .co.uk?
         Ans: ccTLD
+Record Types:-
+        Q. What type of record would be used to advise where to send email?
+        Ans: MX
+        Q. What type of record handles IPv6 addresses?
+        Ans: AAAA
