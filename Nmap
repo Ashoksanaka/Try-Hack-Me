@@ -1,1 +1,65 @@
 "NMAP" WALKTHROUGH:-
+Deploy:-
+        Q.Deploy the attached VM
+        Ans: No answer needed
+Introduction:-
+        Q.What networking constructs are used to direct traffic to the right application on a server?
+        Ans: Ports
+        Q. How many of these are available on any network-enabled computer?
+        Ans: 65535
+        Q. [Research] How many of these are considered "well-known"? (These are the "standard" numbers mentioned in the task)
+        Ans: 1024
+Nmap Switches:-
+        Q. What is the first switch listed in the help menu for a 'Syn Scan' (more on this later!)?
+        Ans: -sS
+        Q. Which switch would you use for a "UDP scan"?
+        Ans: -sU
+        Q. If you wanted to detect which operating system the target is running on, which switch would you use?
+        Ans: -O
+        Q. Nmap provides a switch to detect the version of the services running on the target. What is this switch?
+        Ans: -sV
+        Q. The default output provided by nmap often does not provide enough information for a pentester. How would you increase the verbosity?
+        Ans: -v
+        Q. Verbosity level one is good, but verbosity level two is better! How would you set the verbosity level to two?
+           (Note: it's highly advisable to always use at least this option)
+        Ans: -vv
+        Q. We should always save the output of our scans -- this means that we only need to run the scan once (reducing network traffic and thus chance of detection), and gives us a reference to use when writing reports for clients.
+           What switch would you use to save the nmap results in three major formats?
+        Ans: -oA
+        Q. What switch would you use to save the nmap results in a "normal" format?
+        Ans: -oN
+        Q. A very useful output format: how would you save results in a "grepable" format?
+        Ans: -oG
+        Q. Sometimes the results we're getting just aren't enough. If we don't care about how loud we are, we can enable "aggressive" mode. This is a shorthand switch that activates service detection, operating system detection, a traceroute and common script scanning.
+           How would you activate this setting?
+        Ans: -A
+        Q. Nmap offers five levels of "timing" template. These are essentially used to increase the speed your scan runs at. Be careful though: higher speeds are noisier, and can incur errors!
+           How would you set the timing template to level 5?
+        Ans: -T5
+        Q. We can also choose which port(s) to scan.
+           How would you tell nmap to only scan port 80?
+        Ans: -p 80
+        Q. How would you tell nmap to scan ports 1000-1500?
+        Ans: -p 1000-1500
+        Q. A very useful option that should not be ignored:
+           How would you tell nmap to scan all ports?
+        Ans: -p-
+        Q. How would you activate a script from the nmap scripting library (lots more on this later!)?
+        Ans: --script
+        Q. How would you activate all of the scripts in the "vuln" category?
+        Ans: --script=vuln
+Scan Types Overview:-
+        Q. Read the Scan Types Introduction.
+        Ans: No answer needed
+Scan Types TCP Connect Scans:-
+        Q. Which RFC defines the appropriate behaviour for the TCP protocol?
+        Ans: RFC 9293
+        Q. If a port is closed, which flag should the server send back to indicate this?
+        Ans: RST
+Scan Types SYN Scans:-
+        Q. There are two other names for a SYN scan, what are they?
+        Ans: Half-Open, Stealth
+        Q. Can Nmap use a SYN scan without Sudo permissions (Y/N)?
+        Ans: N
+Scan Types UDP Scans:-
+        Q.
