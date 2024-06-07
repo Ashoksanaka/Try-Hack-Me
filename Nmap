@@ -90,4 +90,9 @@ NSE Scripts Searching for Scripts:-
         Ans: smb-os-discovery.nse
         Q. Read through this script. What does it depend on?
         Ans: smb-brute
+Firewall Evasion:-
+        Q. Which simple (and frequently relied upon) protocol is often blocked, requiring the use of the -Pn switch?
+        Ans: ICMP
+        Q. [Research] Which Nmap switch allows you to append an arbitrary length of random data to the end of packets?
+        Ans: --data-length
 
