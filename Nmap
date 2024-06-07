@@ -95,4 +95,16 @@ Firewall Evasion:-
         Ans: ICMP
         Q. [Research] Which Nmap switch allows you to append an arbitrary length of random data to the end of packets?
         Ans: --data-length
+Practical:-
+        Q. Does the target ip respond to ICMP echo (ping) requests (Y/N)?
+        Ans: N
+        Q. Perform an Xmas scan on the first 999 ports of the target -- how many ports are shown to be open or filtered?
+        Ans: 999
+        Q. There is a reason given for this -- what is it?
+           Note: The answer will be in your scan results. Think carefully about which switches to use -- and read the hint before asking for help!
+        Ans: No Response
+        Q. Perform a TCP SYN scan on the first 5000 ports of the target -- how many ports are shown to be open?
+        Ans: 5
+        Q. Open Wireshark (see Cryillic's Wireshark Room for instructions) and perform a TCP Connect scan against port 80 on the target, monitoring the results. Make sure you understand what's going on. Deploy the ftp-anon script against the box. Can Nmap login successfully to the FTP server on port 21? (Y/N)
+        Ans: Y
 
