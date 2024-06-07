@@ -107,4 +107,8 @@ Practical:-
         Ans: 5
         Q. Open Wireshark (see Cryillic's Wireshark Room for instructions) and perform a TCP Connect scan against port 80 on the target, monitoring the results. Make sure you understand what's going on. Deploy the ftp-anon script against the box. Can Nmap login successfully to the FTP server on port 21? (Y/N)
         Ans: Y
+Conclusion:-
+        Q. Read the conclusion
+        Ans: No answer needed
+
 
