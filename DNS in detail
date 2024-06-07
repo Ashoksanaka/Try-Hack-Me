@@ -1,25 +1,65 @@
 "DNS IN DETAIL" WALKTHROUGH:-
+
+
+
 What is DNS?:-
+
         Q. What does DNS stand for?
         Ans: Domain Name System
+
+
 Domain Hierarchy:-
+
         Q. What is the maximum length of a subdomain?
         Ans: 63
+
         Q. Which of the following characters cannot be used in a subdomain ( 3 b _ - )?
         Ans: _
+
         Q. What is the maximum length of a domain name?
         Ans: 253
+
         Q. What type of TLD is .co.uk?
         Ans: ccTLD
+
+
 Record Types:-
+
         Q. What type of record would be used to advise where to send email?
         Ans: MX
+
         Q. What type of record handles IPv6 addresses?
         Ans: AAAA
+
+
 Making A Request:-
+
         Q. What field specifies how long a DNS record should be cached for?
         Ans: TTL
+
         Q. What type of DNS Server is usually provided by your ISP?
         Ans: recursive
+
         Q. What type of server holds all the records for a domain?
         Ans: authoritative
+
+
+Practical:-
+
+        Q. What is the CNAME of shop.website.thm?
+        Ans: shops.myshopify.com
+
+        Q. What is the value of the TXT record of website.thm?
+        Ans: THM{7012BBA60997F35A9516C2E16D2944FF}
+
+        Q. What is the numerical priority value for the MX record?
+        Ans: 30
+
+        Q. What is the IP address for the A record of www.website.thm?
+        Ans: 10.10.10.10
+
+
+
+
+
+************************************************************************************************************ T H E  E N D ****************************************************************************************************************************
