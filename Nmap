@@ -62,4 +62,8 @@ Scan Types SYN Scans:-
         Q. Can Nmap use a SYN scan without Sudo permissions (Y/N)?
         Ans: N
 Scan Types UDP Scans:-
-        Q.
+        Q. If a UDP port doesn't respond to an Nmap scan, what will it be marked as?
+        Ans: open|filtered
+        Q. When a UDP port is closed, by convention the target should send back a "port unreachable" message. Which protocol would it use to do so?
+        Ans: ICMP
+
