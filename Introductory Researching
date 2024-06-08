@@ -13,3 +13,12 @@ Example Research Question:-
 	Ans: Base 16
 	Q. If a password hash starts with $6$, what format is it (Unix variant)?
 	Ans: sha512crypt
+Vulnerability Searching:-
+	Q. What is the CVE for the 2020 Cross-Site Scripting (XSS) vulnerability found in WPForms?
+	Ans: CVE-2020-10385
+	Q. There was a Local Privilege Escalation vulnerability found in the Debian version of Apache Tomcat, back in 2016. What's the CVE for this vulnerability?
+	Ans: CVE-2016-1240
+	Q. What is the very first CVE found in the VLC media player?
+	Ans: CVE-2007-0017
+	Q. If you wanted to exploit a 2020 buffer overflow in the sudo program, which CVE would you use?
+	Ans: CVE-2019-18634
