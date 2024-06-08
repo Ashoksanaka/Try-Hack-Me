@@ -1,37 +1,71 @@
 "INTRODUCTORY RESEARCHING" WALKTHROUGH:-
+
+
+
 Introduction:-
+
 	Q. Read the Introduction
 	Ans: No answer needed
+
+
 Example Research Question:-
+
 	Q. In the Burp Suite Program that ships with Kali Linux, what mode would you use to manually send a request (often repeating a captured request numerous times)?
 	Ans: Repeater
+
 	Q. What hash format are modern Windows login passwords stored in?
 	Ans: NTLM
+
 	Q. What are automated tasks called in Linux?
 	Ans: Cron Jobs
+
 	Q. What number base could you use as a shorthand for base 2 (binary)?
 	Ans: Base 16
+
 	Q. If a password hash starts with $6$, what format is it (Unix variant)?
 	Ans: sha512crypt
+
+
 Vulnerability Searching:-
+
 	Q. What is the CVE for the 2020 Cross-Site Scripting (XSS) vulnerability found in WPForms?
 	Ans: CVE-2020-10385
+
 	Q. There was a Local Privilege Escalation vulnerability found in the Debian version of Apache Tomcat, back in 2016. What's the CVE for this vulnerability?
 	Ans: CVE-2016-1240
+
 	Q. What is the very first CVE found in the VLC media player?
 	Ans: CVE-2007-0017
+
 	Q. If you wanted to exploit a 2020 buffer overflow in the sudo program, which CVE would you use?
 	Ans: CVE-2019-18634
+
+
 Manual Pages:-
+
 	Q. SCP is a tool used to copy files from one computer to another.
 	   What switch would you use to copy an entire directory?
 	Ans: -r
+
 	Q. fdisk is a command used to view and alter the partitioning scheme used on your hard drive.
 	   What switch would you use to list the current partitions?
 	Ans: -l
+
 	Q. nano is an easy-to-use text editor for Linux. There are arguably better editors (Vim, being the obvious choice); however, nano is a great one to start with.
 	   What switch would you use to make a backup when opening a file with nano?
 	Ans: -B
+
 	Q. Netcat is a basic tool used to manually send and receive network requests. 
 	   What command would you use to start netcat in listen mode, using port 12345?
 	Ans: nc -l -p 12345
+
+
+Final Thoughts:-
+
+	Q. Research Complete!
+	Ans: No answer needed
+
+
+
+
+------------------------------------------------------------------------------------------------------- T H E  E N D --------------------------------------------------------------------------------------------------------------------------------
